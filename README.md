@@ -22,14 +22,14 @@ S3（(AWS中国区测试可用)
 
 先下载，网址：<https://cyberduck.io/download/>
 
-<https://activate-camp-web-install-shandong.s3.cn-north-1.amazonaws.com.cn/Cyberduck-7.0.2.30998.zip>
+<s> <https://activate-camp-web-install-shandong.s3.cn-north-1.amazonaws.com.cn/Cyberduck-7.0.2.30998.zip> </s>
 
-**[中国区配置教程如下：]{.underline}**
+**[中国区配置教程如下：]**
 
 **1）下载中国区S3的配置文件：**<https://cyberduck.io/s3/>
 ，根据您的需要选择北京或宁夏。
 
-<https://activate-camp-web-install-shandong.s3.cn-north-1.amazonaws.com.cn/S3+China+(Ningxia).cyberduckprofile>
+<s><https://activate-camp-web-install-shandong.s3.cn-north-1.amazonaws.com.cn/S3+China+(Ningxia).cyberduckprofile> </s>
 
 ![A screenshot of a social media post Description automatically
 generated](images.md/media/image1.png)
@@ -81,7 +81,7 @@ S3 Browser 相对于s3命令行是一个很方便的操作S3的图形化界面�
 
 下载网址：<http://s3browser.com/>
 
-**[配置教程如下：]{.underline}**
+**[配置教程如下：]**
 
 **1）新建用户**
 
