@@ -15,7 +15,39 @@ S3（(AWS中国区测试可用)
 > -   Windows： S3 Browser
 
 
-## [**S3 cyberduck配置指南**]
+
+## [**S3 Browser 配置指南**]
+
+S3 Browser 相对于s3命令行是一个很方便的操作S3的图形化界面工具。
+以下是配置步骤：
+
+下载网址：<http://s3browser.com/>
+
+**[配置教程如下：]**
+
+**1）新建用户**
+
+![](images.md/media/image10.png)
+
+**2）界面配置注意选择几点： AccountType: Amazon S3 in China  **
+
+![A screenshot of a cell phone Description automatically
+generated](images.md/media/image11.png)
+
+** 3）Access Key ID 和 Secret Access Key来自AWS账号：**
+
+![A screenshot of a cell phone Description automatically
+generated](images.md/media/image5.png)
+
+![A screenshot of a cell phone Description automatically
+generated](images.md/media/image6.png)
+
+**4）配置OK后，可以上传下载文件了：**
+
+ ![](images.md/media/image12.png)
+
+ 
+ ## [**S3 cyberduck配置指南**]
 
 **cyberduck**相对于s3命令行来讲，是一个很方便的操作S3的图形化界面工具，用于MAC平台。
 以下是配置步骤：
@@ -73,35 +105,3 @@ generated](images.md/media/image8.png)
 
 ![A screenshot of a cell phone Description automatically
 generated](images.md/media/image9.png)
-
-## [**S3 Browser 配置指南**]
-
-S3 Browser 相对于s3命令行是一个很方便的操作S3的图形化界面工具。
-以下是配置步骤：
-
-下载网址：<http://s3browser.com/>
-
-**[配置教程如下：]**
-
-**1）新建用户**
-
-![](images.md/media/image10.png)
-
-**2）界面配置注意选择几点： AccountType: Amazon S3 in China  **
-
-![A screenshot of a cell phone Description automatically
-generated](images.md/media/image11.png)
-
-** 3）Access Key ID 和 Secret Access Key来自AWS账号：**
-
-![A screenshot of a cell phone Description automatically
-generated](images.md/media/image5.png)
-
-![A screenshot of a cell phone Description automatically
-generated](images.md/media/image6.png)
-
-**4）配置OK后，可以上传下载文件了：**
-
- ![](images.md/media/image12.png)
-
- 
